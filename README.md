@@ -15,7 +15,6 @@ ARC:-
 https://github.com/Shahid-Siddiqui-Raw/Remaining-Task/blob/main/iOS%20Basic%20training/ARC/MyPlayground.playground/Contents.swift
 
 Optional chaining, If let, guard let, forced unwrapped, default unwrapped, optional unwrapped
-&
 Statements (For, if-else, for each, for where, while)
 :- 
 
