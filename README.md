@@ -50,8 +50,5 @@ Access control
 
 ->Private -Can be accessed it the same class only.
 
-This is the first line.  
-This is the second line.
-
 
 
