@@ -36,19 +36,8 @@ Higher order functions, tuples, Zip, Array operations:-
 
 https://github.com/Shahid-Siddiqui-Raw/Demo/blob/main/higherOrder.playground/Pages/Untitled%20Page.xcplaygroundpage/Contents.swift
 
-
-
-
-
-
-
+&
 Access control
-
-
-
-
-
-
 Open [in the whole project can access it and others can inherit it]
 
 Public [In. The whole project and other project can access it]
