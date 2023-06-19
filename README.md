@@ -1,8 +1,42 @@
 # Name1
-OOPS Basic
+OOPS Basic:-
+
+https://github.com/Shahid-Siddiqui-Raw/Remaining-Task/blob/main/iOS%20Basic%20training/OOPS/classes%20and%20object%20manupulation.playground/Contents.swift
 
 
-https://github.com/Shahid-Siddiqui-Raw/Remaining-Task/tree/main/iOS%20Basic%20training/OOPS/classes%20and%20object%20manupulation.playground
+Properties - Strong, Weak, unowned, atomic, nonatomic properties &. Stored and Computed properties, lazy properties 
+:- 
+
+https://github.com/Shahid-Siddiqui-Raw/Remaining-Task/blob/main/iOS%20Basic%20training/proerties/strong%20and%20weak%20properties/properties.playground/Contents.swift
 
 
-Properties:- https://github.com/Shahid-Siddiqui-Raw/Remaining-Task/tree/main/iOS%20Basic%20training/proerties/strong%20and%20weak%20properties/properties.playground
+ARC:-
+
+https://github.com/Shahid-Siddiqui-Raw/Remaining-Task/blob/main/iOS%20Basic%20training/ARC/MyPlayground.playground/Contents.swift
+
+Optional chaining, If let, guard let, forced unwrapped, default unwrapped, optional unwrapped
+&
+Statements (For, if-else, for each, for where, while)
+:- 
+
+https://github.com/Shahid-Siddiqui-Raw/Remaining-Task/blob/main/iOS%20Basic%20training/OOPS/ControlFlowAndStatements.playground/Contents.swift
+
+
+Subclass and Extention:- 
+
+https://github.com/Shahid-Siddiqui-Raw/Remaining-Task/blob/main/iOS%20Basic%20training/ExtensionAndSubClass/MyPlayground.playground/Contents.swift
+
+
+Memory Safety:-
+
+https://github.com/Shahid-Siddiqui-Raw/Demo/blob/main/MemorySaefty.playground/Contents.swift
+
+
+Higher order functions, tuples, Zip, Array operations:-
+
+https://github.com/Shahid-Siddiqui-Raw/Demo/tree/main/higherOrder.playground
+
+
+
+
+
