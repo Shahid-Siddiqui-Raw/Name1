@@ -3,6 +3,8 @@ OOPS Basic:-
 
 https://github.com/Shahid-Siddiqui-Raw/Remaining-Task/blob/main/iOS%20Basic%20training/OOPS/classes%20and%20object%20manupulation.playground/Contents.swift
 
+https://github.com/Shahid-Siddiqui-Raw/Remaining-Task/blob/main/iOS%20Basic%20training/OOPS/InheritanceUsingProtocol.playground/Contents.swift
+
 Strong, Weak, unowned, atomic, nonatomic properties &. Stored and Computed properties, lazy properties :- 
 
 https://github.com/Shahid-Siddiqui-Raw/Remaining-Task/blob/main/iOS%20Basic%20training/proerties/strong%20and%20weak%20properties/properties.playground/Contents.swift
