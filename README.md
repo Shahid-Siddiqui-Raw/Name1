@@ -36,7 +36,15 @@ Higher order functions, tuples, Zip, Array operations:-
 
 https://github.com/Shahid-Siddiqui-Raw/Demo/blob/main/higherOrder.playground/Pages/Untitled%20Page.xcplaygroundpage/Contents.swift
 
+access control
+Open [in the whole project can access it and others can inherit it]
 
+Public [In. The whole project and other project can access it]
 
+Internal [In module]
+
+Fileprivate [In the same file]
+
+Private [Can be accessed it the same class only]
 
 
